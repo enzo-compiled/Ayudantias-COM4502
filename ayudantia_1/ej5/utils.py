@@ -1,0 +1,1 @@
+formatear_dinero = lambda cantidad: f"${cantidad:.2f}"
