@@ -26,3 +26,8 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+
+
+*.pyc
+resultados.png
+.venv/
